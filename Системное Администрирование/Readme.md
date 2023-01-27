@@ -77,6 +77,10 @@
 
  ![image](https://user-images.githubusercontent.com/97594483/214491733-d827d9af-2fdf-40cf-90cb-5107320401b8.png)
  
+ Задание №1
+ ![image](https://user-images.githubusercontent.com/97594483/215020286-0b283073-1b7a-4915-bc03-f0d3c70e52bb.png)
+
+ 
  Задание №2
  Работа с файлами
  
