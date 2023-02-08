@@ -96,5 +96,35 @@
  “l” symlink символическая ссылка
 ![image](https://user-images.githubusercontent.com/97594483/214498077-b8cfbdf1-c013-47b0-834c-2d3afde9bc0f.png)
 
+Перенаправление ввода
+Обычный ввод - с клавиатуры. 
+command < filename
+ $cat < in_exemple_1
+ $ ./input2.sh < in_example_1 &
+ 
+command > filename - rewrite(переписывает)
+command 1 > filename
+command >> filename - append (добовляет)
+ $ cat > out_file
+ $ cat file1 file2 > resault_file
+ $ ./input2.sh > out
+ $ grep DHCP /var/log/syslog > dhcp_syslog.log
+ 
+ 2 > /dev/null - заглушает поток ошибок
+ 
+   Процессы и потоки
+Процесс - абстрактный термин
+- память
+- открытие файловые дескрипторы
+- контекст выполнения
+- pid
+- обрабочики сигналов
+- как минимум, один поток
+Потоки имеют 
+- общую виртуальную память
+- каждый - свой виртуальный процессор
+![image](https://user-images.githubusercontent.com/97594483/217463255-8889ed16-4eaf-4d4c-9d28-c7702a4ffd82.png)
+
+ 
 
  
