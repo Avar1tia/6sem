@@ -11,4 +11,5 @@ Figma шаблон сайта резюме https://www.figma.com/community/tag/r
 4. Выполнить тестование задание для любого направления(01.02-10.02)
 5. Определиться с темой конференции(12.02-20.02)
 
-[avaritia7.webnode.ru/kontakty/](https://avaritia7.cms.webnode.ru/)
+[[[avaritia7.webnode.ru/kontakty/](https://avaritia7.cms.webnode.ru/)
+](https://avaritia7.webnode.ru/)](https://avaritia7.webnode.ru/)
