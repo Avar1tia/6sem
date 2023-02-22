@@ -95,6 +95,8 @@
  ![image](https://user-images.githubusercontent.com/97594483/214497146-1fb200d9-bf81-4de1-bf2b-379a9f9352fa.png)
  “l” symlink символическая ссылка
 ![image](https://user-images.githubusercontent.com/97594483/214498077-b8cfbdf1-c013-47b0-834c-2d3afde9bc0f.png)
+“s” unix sockets файл локального сокета.
+
 
 Перенаправление ввода
 Обычный ввод - с клавиатуры. 
