@@ -106,6 +106,13 @@
 
 
 
+Задание №3
+![image](https://user-images.githubusercontent.com/97594483/222064258-89b615f0-3f3b-4732-aabb-1ef7c30f7ac9.png)
+![image](https://user-images.githubusercontent.com/97594483/222066160-2243eea4-316d-492e-88ce-ee7d7ae984d2.png)
+
+
+
+
 
 Перенаправление ввода
 Обычный ввод - с клавиатуры. 
