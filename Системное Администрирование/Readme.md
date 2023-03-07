@@ -103,6 +103,8 @@
 ![image](https://user-images.githubusercontent.com/97594483/220554756-a6c3ab46-b38d-4063-ac36-fdfc9e56db08.png)
 “c” chat device файл символьного устройства 
 ![image](https://user-images.githubusercontent.com/97594483/220555594-cd246cbc-fd09-4aed-beaf-fc8d6dd3cb1b.png)
+![image](https://user-images.githubusercontent.com/97594483/223335685-be734358-a9c7-4cc7-8336-56c46e791af6.png)
+
 
 
 
