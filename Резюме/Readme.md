@@ -12,4 +12,4 @@ Figma шаблон сайта резюме https://www.figma.com/community/tag/r
 5. Определиться с темой конференции(12.02-20.02)
 
 [[[avaritia7.webnode.ru/kontakty/](https://avaritia7.cms.webnode.ru/)
-](https://avaritia7.webnode.ru/)](https://avaritia7.webnode.ru/)
+https://vk.com/spolonich?w=wall-220333741_33![Результат - 197106290](https://github.com/Avar1tia/6sem/assets/97594483/48d83fea-db8e-4514-a8a5-e77cb7b031b4)
