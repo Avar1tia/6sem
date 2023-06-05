@@ -13,3 +13,5 @@ Figma шаблон сайта резюме https://www.figma.com/community/tag/r
 
 [[[avaritia7.webnode.ru/kontakty/](https://avaritia7.cms.webnode.ru/)
 https://vk.com/spolonich?w=wall-220333741_33![Результат - 197106290](https://github.com/Avar1tia/6sem/assets/97594483/48d83fea-db8e-4514-a8a5-e77cb7b031b4)
+![image](https://github.com/Avar1tia/6sem/assets/97594483/8ec8d8d7-b2f7-4adf-b327-1b5b60b0eccb)
+
