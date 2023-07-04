@@ -1,4 +1,4 @@
-https://docs.google.com/document/d/1Wg_BChoGUx8D4bd0jIf-HQXVNMDAtBwy/edit?usp=drivesdk&ouid=117718695914833510081&rtpof=true&sd=true
+[ГуглДиск](https://drive.google.com/drive/u/0/folders/1bVYFN5hvtiIdWrm-GoCW2Rscl8--RIPi)
 # 6sem
 План по предметам
 МДК 12.01 Python для автоматизации:
